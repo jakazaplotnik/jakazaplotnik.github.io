@@ -1,5 +1,5 @@
 # Jaka Zaplotnik
-Faculty of mathematics and Physics, University of Ljubljana
+Faculty of Mathematics and Physics, University of Ljubljana
 
 
 # Publications
